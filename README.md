@@ -1,24 +1,14 @@
-# README
+Railsを学ぼう２−２
+・アプリケーション作成
+・ホストを許可
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Railsを学ぼう２−３
+・コントローラ作成
+・アクションの追加
+・ルーティング作成
+・ビュー作成
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Railsを学ぼう２ー４・５
+・モデル作成
+・migrationファイル作成
+・テーブル作成
